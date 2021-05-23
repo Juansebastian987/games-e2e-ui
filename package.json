@@ -1,0 +1,23 @@
+{
+  "name": "games-e2e-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e:ui": "cypress open",
+    "test:e2e:ui:headless": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juansebastian987/games-e2e-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juansebastian987/games-e2e-ui/issues"
+  },
+  "homepage": "https://github.com/Juansebastian987/games-e2e-ui#readme",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
